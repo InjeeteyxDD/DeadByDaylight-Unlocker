@@ -1,0 +1,28 @@
+TURN ANTIVIRUS OFF
+
+
+1 - Install Fiddler.
+
+2 - Open Fiddler 4, click on Tools -> Options -> HTTPS
+
+3 - Check "Capture HTTPS CONNECTs" and "Decrypt HTTPS traffic".
+
+4 - Accept the certificate prompt.
+
+5 - Below "Check for certificate revocation", click on "Protocols" and change it to: <client>;ssl3;tls1.2
+
+6 - Close Fiddler and install fiddlercertmaker.exe (I'll leave the download below).
+
+7 - Open Fiddler 4 again and go to Tools -> Options -> HTTPS -> Actions -> Reset All Certificates and accept everything that appears.
+
+8 - Create a folder named Rules on your C: drive and paste the rules files there.
+
+9 - Create a rule, insert the provided code below, and ensure each rule contains the appropriate script.
+
+10 - Follow all the steps shown in the video.
+
+DEV LUCKY NEXUS 
+
+api/v1/dbd-character-data/get-all
+api/v1/dbd-character-data/bloodweb
+api/v1/dbd-inventories/all
