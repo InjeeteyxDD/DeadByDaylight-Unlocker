@@ -16,3 +16,19 @@ DBD UNLOCKER is developed with the intent to be used only for educational purpos
 - Choose between different profiles and choose your own items and character prestige amount
 - Works for `Steam` ([SSL Bypass](https://shoppy.gg/@FortniteBurger) needed), `Epic Games` & `Microsoft Store`
 - Integrated mod browser, to easily download and configure mods like FOV, Killer Revealer and more (*Mods are currently outdated*)
+
+
+# INSTALLING
+1.  Install Fiddler.
+2. Open Fiddler 4, click on Tools -> Options -> HTTPS
+3.  Check "Capture HTTPS CONNECTs" and "Decrypt HTTPS traffic".
+4. Accept the certificate shit.
+5. Below "Check for certificate revocation" click on "Protocols" and change it to: <client>;ssl3;tls1.2
+6. Close Fiddler and install fiddlercertmaker.exe, I'll leave the download below.
+7. Once again open Fiddler 4 and go Tools->Options->HTTPS->Actions->Reset All Certificates and accept everything that shows up.
+8. Create a folder named Rules on you C: disk and paste the rules files there.
+9. Back to Fiddler, go to AutoResponder, click Import, and import: import_me_v4.farx and import_Fullprofile_v2.farx
+10. Check "Enable rules" and "Unmatched requests passthrough".
+
+# TUTORIAL 
+https://www.youtube.com/watch?v=PNMVK3JQby8
