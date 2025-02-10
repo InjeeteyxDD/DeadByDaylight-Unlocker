@@ -19,6 +19,7 @@ DBD UNLOCKER is developed with the intent to be used only for educational purpos
 
 
 # INSTALLING
+**TURN ANTI VIRUS OFF**
 1.  Install Fiddler.
 2. Open Fiddler 4, click on Tools -> Options -> HTTPS
 3.  Check "Capture HTTPS CONNECTs" and "Decrypt HTTPS traffic".
