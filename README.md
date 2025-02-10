@@ -14,7 +14,7 @@ DBD UNLOCKER is developed with the intent to be used only for educational purpos
 - Unlink cosmetic sets to break full cosmetic sets
 - Unlock all items and add-ons for both killer and survivor
 - Choose between different profiles and choose your own items and character prestige amount
-- Works for `Steam` ([SSL Bypass](https://shoppy.gg/@FortniteBurger) needed), `Epic Games` & `Microsoft Store`
+- Works for `Steam` `Epic Games` & `Microsoft Store`
 - Integrated mod browser, to easily download and configure mods like FOV, Killer Revealer and more (*Mods are currently outdated*)
 
 
