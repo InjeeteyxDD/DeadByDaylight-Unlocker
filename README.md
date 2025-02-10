@@ -3,7 +3,7 @@
  ### Disclaimer
 DBD UNLOCKER is developed with the intent to be used only for educational purpose.
 ## What is DBD UNLOCKER
-![Uploading image.png…]()
+
 `DBD UNLOCKER` is an Dead by Daylight unlocker, that can unlock characters/DLC, skins, items & perks.
 </div>
 
