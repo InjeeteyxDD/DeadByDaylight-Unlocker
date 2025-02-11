@@ -2,7 +2,7 @@
    [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows)
    [![x64](https://img.shields.io/badge/Arch-x64-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86-64)
    [![License](https://img.shields.io/github/license/OssieFromDK/DeadByDaylight-Unlocker.svg?style=plastic)](LICENSE)
-   [![Discord](https://img.shields.io/discord/1148144263792701471.svg?color=7289da&label=Discord&logo=discord&logoColor=white&cacheSeconds=3600&style=plastic)](https://discord.gg/FcgcvQw4EH)
+   [![Discord](https://img.shields.io/discord/1148144263792701471.svg?color=7289da&label=Discord&logo=discord&logoColor=white&cacheSeconds=3600&style=plastic)](https://discord.gg/Sd8j2gfndF)
 
  # Nexus Dead By Daylight Unlocker
  ![image](https://github.com/user-attachments/assets/2bc974d9-d61b-497e-9147-ec701cb12fd6)
